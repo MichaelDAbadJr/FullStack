@@ -1,2 +1,2 @@
 # FullStack
-A repository of full stack applications
+A fullstack application using React, Node JS, Express, and MongoDB where users can post their favorite places.
