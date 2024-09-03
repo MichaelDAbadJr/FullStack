@@ -10,7 +10,13 @@ html {
 
 body {
   margin: 0;
-  background: #4d4d4d;
+  /* background: #4d4d4d; */
+  background-image: url('images/mern-picture-app-background2.jpg');
+  background-size: cover; /* Adjust the size of the background image */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; 
+  margin: 0; /* Remove default margin */
+  height: 50vh; /* Ensure the body takes half viewport height */
 }
 
 .slide-in-left-enter {
