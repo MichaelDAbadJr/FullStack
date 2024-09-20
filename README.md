@@ -64,7 +64,7 @@ link to the backend repository -->
    ```
 
 5. **Usage:**
-   Once the development server is running, open your browser and navigate to http://localhost:5173 or the appropriate localhost on your machine to view the portfolio.
+   Once the development server is running, open your browser and navigate to http://localhost:5173 or the appropriate localhost on your machine to demo the app.
 
 6. **License:**
    This project is licensed under the MIT License. See the LICENSE file for details.
