@@ -17,7 +17,6 @@ link to the backend repository -->
 - **Image Uploading:** Supports image uploads, enhancing the visual appeal and context of user submissions.
 - **Google Maps Integration:** Leverages the Google Maps API to display places on an interactive map.
 - **Error Handling:** Robust management of loading states and error messages during API calls for better user feedback.
-- **Contact Form:** Allows visitors to get in touch with me directly through the site.
 
 ## Getting Started
 
