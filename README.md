@@ -12,11 +12,11 @@ link to the backend repository -->
 
 ## Features
 
-- **User Authentication:** Secure login and registration for users, enabling personalized experiences through JWT-based authentication.
-- **Place Management:** Users can easily add, update, and delete places, with intuitive UI components for efficient data handling.
-- **Image Uploading:** Users can upload images associated with their places, enhancing the visual appeal and context of their submissions.
-- **Google Maps Integration:** Utilizes the Google Maps API to display places on an interactive map, allowing users to visualize locations effectively.
-- **Error Handling:** Comprehensive management of loading states and error messages during API calls, enhancing user feedback.
+- **User Authentication:** Secure login and registration using JWT for personalized user experiences.
+- **Place Management:** Users can effortlessly add, update, and delete places with an intuitive UI.
+- **Image Uploading:** Supports image uploads, enhancing the visual appeal and context of user submissions.
+- **Google Maps Integration:** Leverages the Google Maps API to display places on an interactive map.
+- **Error Handling:** Robust management of loading states and error messages during API calls for better user feedback.
 - **Contact Form:** Allows visitors to get in touch with me directly through the site.
 
 ## Getting Started
