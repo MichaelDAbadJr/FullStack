@@ -7,7 +7,7 @@ This the frontend UI portion to a fullstack application which serves as a platfo
 <a href="https://junmike-picture-place.netlify.app/" target="_blank">View Live Website</a>
 <img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/PicturePlace-Cover.jpg" width="500">
 
-below is the link for the backend repository
+link to the backend repository -->
 <a href="https://github.com/MichaelDAbadJr/PicturePlaceApp-Backend/" target="_blank">PicturePlaceApp-Backend Repository</a>
 
 ## Features
