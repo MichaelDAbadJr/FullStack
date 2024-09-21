@@ -157,9 +157,12 @@ const Auth = () => {
         <Button inverse onClick={switchModeHandler}>
           SWITCH TO {isLoginMode ? 'SIGNUP' : 'LOGIN'}
         </Button>
-        <h3>Login with Demo Email & Password</h3>
-        <h4>Email: test1@test.com</h4>
-        <h4>Password: HelloWorld23</h4>
+        <div className='demo-login'>
+          <h3 className='demo'>Login with Demo Email & Password</h3>
+          <h4 className='demo'>Email: test1@test.com</h4>
+          <h4 className='demo'>Password: HelloWorld23</h4>
+          <h4 className='demo-note'>This will log you in as Alex</h4>
+        </div>
       </Card>
     </React.Fragment>
   );
