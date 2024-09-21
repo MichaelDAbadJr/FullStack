@@ -158,7 +158,7 @@ const Auth = () => {
           SWITCH TO {isLoginMode ? 'SIGNUP' : 'LOGIN'}
         </Button>
         <div className='demo-login'>
-          <h3 className='demo'>Login with Demo Email & Password</h3>
+          <h3 className='demo'>Login with demo Email & Password</h3>
           <h4 className='demo'>Email: test1@test.com</h4>
           <h4 className='demo'>Password: HelloWorld23</h4>
           <h4 className='demo-note'>This will log you in as Alex</h4>
