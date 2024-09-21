@@ -157,6 +157,9 @@ const Auth = () => {
         <Button inverse onClick={switchModeHandler}>
           SWITCH TO {isLoginMode ? 'SIGNUP' : 'LOGIN'}
         </Button>
+        <h3>Login with Demo Email & Password</h3>
+        <h4>Email: test1@test.com</h4>
+        <h4>Password: HelloWorld23</h4>
       </Card>
     </React.Fragment>
   );
