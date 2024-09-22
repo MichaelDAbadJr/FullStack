@@ -5,6 +5,7 @@
 This the frontend UI portion to a fullstack application which serves as a platform for users to share and discover various places. It allows users to create, update, and delete places while managing authentication and user profiles. Built with React js, this app offers a responsive and user-friendly interface.
 
 <a href="https://junmike-picture-place.netlify.app/" target="_blank">View Live Website</a>
+</br>
 <img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/PicturePlace-Cover.jpg" width="500">
 
 link to the backend repository -->
