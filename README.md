@@ -55,13 +55,13 @@ link to the backend repository -->
 4. **To start the development server, use:**
 
    ```sh
-   npm start
+   npm run dev
    ```
 
    or
 
    ```
-   yarn start
+   yarn dev
    ```
 
 5. **Usage:**
